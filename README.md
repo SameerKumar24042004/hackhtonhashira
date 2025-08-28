@@ -84,10 +84,5 @@ Result:
 Value of C: 7.9836264046592E13
 ```
 
-## Contributing
 
-Feel free to submit issues and enhancement requests.
 
-## License
-
-This project is available under the MIT License.

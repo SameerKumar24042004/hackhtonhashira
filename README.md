@@ -61,14 +61,27 @@ The program will automatically process both test case files and output the value
    - Applies Lagrange Interpolation to find the constant term C
 3. Outputs the calculated C value
 
-## Example Output
+## Test Results
 
+### Test Case 1
+Input parameters:
+- n = 4 points
+- k = 3 points to use
+- Points in various bases (10, 2, 10, 4)
+
+Result:
 ```
-Testing first case:
-Value of C: <calculated_value>
+Value of C: 3.0
+```
 
-Testing second case:
-Value of C: <calculated_value>
+### Test Case 2
+Input parameters:
+- Larger dataset
+- Complex calculations
+
+Result:
+```
+Value of C: 7.9836264046592E13
 ```
 
 ## Contributing
